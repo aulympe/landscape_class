@@ -1,4 +1,4 @@
-## Welcome to my github !
+## Welcome to my computer vision project !
 
-I am a master's degree student wanting to get better at machine learning and Deep Learning. 
-The few codes you will see here are the beginning of my journey, I will try to keep them up to date.
+I want to get better at computer vision and neural network using TensorFlow so I launch a project in which I want to make a classification of landscape images using machine learning techniques.
+I am still working on it and trying to improve the results.
